@@ -1,10 +1,8 @@
-# README
+# Secrets App
 
-## Secrets App
+## Overview
 
 A web application that enables users to anonymously submit secrets. The app leverages Node.js, Express, MongoDB, and Passport.js for secure authentication, including Google OAuth integration.
-
----
 
 ## Features
 
@@ -82,7 +80,7 @@ Ensure you have the following installed:
 
 ```
 secrets-app/
-├── public/               # Static files (CSS, JS, images)
+├── public/               # Static files (CSS)
 ├── views/                # EJS templates
 ├── .env                  # Environment variables
 ├── app.js                # Main application logic
@@ -125,5 +123,3 @@ secrets-app/
 This project is licensed under the MIT License.
 
 ---
-
-Feel free to update this document as necessary. Happy coding! 🚀
